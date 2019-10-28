@@ -1,0 +1,17 @@
+.RandomPictures {
+  display: flex;
+}
+
+.box-random-pictures {
+  display: flex;
+  box-sizing: border-box;
+  margin: 0;
+  width: 25%;
+  padding: 1rem;
+  vertical-align: middle;
+}
+
+.img-random-pictures {
+  width: 100%;
+  height: auto;
+}
